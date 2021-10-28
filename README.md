@@ -12,7 +12,7 @@
   <img align="center" alt="James-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="James-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   
-  <img align="right" alt="James-pic" height="150" style="border-radius:50px;" src="https://github.com/Gabriel7812/my_gifs/blob/e145602e36981d106c804bcd27a7793aecf636c8/Tecnologia.gif">
+  <img align="right" alt="James-pic" height="150" style="border-radius:50px;" src="https://github.com/geezieljames/my_gifs/blob/217792b1a3a76339c6984d8e0583f7afcce64b9b/Tecnologia.gif">
   
 </div>
   
