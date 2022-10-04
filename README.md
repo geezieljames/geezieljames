@@ -1,6 +1,6 @@
 ### Ola! Eu sou o Geeziel James 👋
 
-- 🌱 Estou estudando atualmente Java;
+- 🌱 Estou estudando atualmente Flutter;
 - 😄 Pronouns: Ele/Dele
 <div>
   <a href="https://github.com/geezieljames">
