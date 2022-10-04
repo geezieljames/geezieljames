@@ -9,8 +9,13 @@
 </div>
 <div style="display: inline_block"><br>
   
-  <img align="center" alt="James-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="James-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="James-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
+  <img align="center" alt="James-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+  <img align="center" alt="James-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
+  <img align="center" alt="James-Android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
+  <img align="center" alt="James-html5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="James-css3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ccs/css-original.svg">
   
   <img align="right" alt="James-pic" height="150" style="border-radius:50px;" src="https://github.com/geezieljames/my_gifs/blob/217792b1a3a76339c6984d8e0583f7afcce64b9b/Tecnologia.gif">
   
