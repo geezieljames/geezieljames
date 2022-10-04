@@ -15,7 +15,10 @@
   <img align="center" alt="James-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
   <img align="center" alt="James-Android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
   <img align="center" alt="James-html5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="James-css3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ccs/css-original.svg">
+  <img align="center" alt="James-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="James-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="James-Oracle" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
+  <img align="center" alt="James-My-Sql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   
   <img align="right" alt="James-pic" height="150" style="border-radius:50px;" src="https://github.com/geezieljames/my_gifs/blob/217792b1a3a76339c6984d8e0583f7afcce64b9b/Tecnologia.gif">
   
